@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nodal-triumph-399812",
+  "private_key_id": "fee6c800d8ef0fb551f130aea5d1b7c5e2868ce3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOsDvppCLchCuJ\nBw9Snam6akP5vkniPT7i+vqFJW6i83rD9fenHdzmpvuTpDC6JxvtbS+OWsnXFgj3\nWuJ0UdDuqP86VwEc0yJEcBGDV+r/mBJwUWypnoF3i7JD1gb9Rlh4733ucovtIbkb\nJvGw3x5dAstFybXD+HrjgxcueQw6jlMe/MUOJcc0ptfxlROI1Uyk89MtwiNlmeBy\noJq/irSv2Q48Dn7fL0lAeGpBRAeZKb2WiddVyZVU224iRTHK+sID+c7BHpJhvHcy\nl7pnvTmeHy2fHP3AT4ws44dvxj0Du5ZIWy1BdtrpIPD73AOgVH1xA3tN3XKcXZ5A\ndmQuZEenAgMBAAECggEAHVFCLlHp3/2fb0BhHAbhHGAWZEZplH27fda70kcM+nAu\n6bzp8/p4av8kkDyp7L2/aF4kcLzQBIJLo0pw9K7mQ/QUv+G3dq88HRkIYukFnFul\nwejK0QR6uMpH7vdc5nAj/IN8CWaWEnzGFOPhRIVheS/8RVnnPnTweXUOxLjG00c7\nVoYltF9TaY3goSqqdlVau+XEynhWbI6x+m0NmJkMNpoyahTEy655M4aAx1KqfnUX\n4WeiNnuqCDSuKSex9gSgL4FmMI1EbX3MPnPqDbmQWTxRIx72SnmmV5l2nhuWrlhS\n97O5YRFEwzzJ1CFUxVPyiRHuWduBIIk/XPHleduQAQKBgQD83STeiyyIZmXd85PL\nejiXZVrZjlJzbFFg/3zwnSzotBazgOMDoUan/sd/IBRSokDPT1FmX+iD/CqF1iIn\nIDJkG9eIgKmgQDlSZOpCUtFk+6n1m0T1VjIpBBfMOQYfroxnK0IMmk6aH4hObNjE\nWGZk5qit4XiMdOXhMhbQZ6pHJwKBgQDRQHsIlxqEnqGh5QTtQw0JX07umcmMluJQ\nfi51i33UXWZ1DO1ijgLuwCg1Nq6OKLYVwUkVzddcJSyL06+72/Ngb80T96jNQ2Dy\nrRFBZlYSr1Pi/awm/3yJ5kSCmyalprnxbRtNBgmwlK3dk41bTBiekimwdWAwullW\nqW/QQhJLgQKBgHtmtOqCQv5h8o6po1Pm1p1T0k1fvm8jymcq599I5TS/RmDdomwQ\nFbpAhT1N+30EP9qsG855ObDHrDzabppnhRAD4mB0YdOZ5B+IriYl4piElMIOv013\nfk0z+SUqIwntFgn3O2mJGJjwkIWtavAPMBFH28PXyAvLtK/80NNt89R7AoGAdYRn\nFI34IJ8OW2PJfo53ldnm9G1+GezrMRWMdgtfIZNK5VXbQ8xJrVhRvID3S3Nlv5YL\nu6kc1+0wtV6vhSuj5Xckj6A5Nv4uRlwYIsiccmXxELwyoLw/bxrZQxhrfgDC0Onb\nuUg4zOjTNGuXqbx03ylrLGTfHr6pSdhiqW1R5QECgYEA97l0DIeWeD+7+JckoobS\n+opuEa67hYAUklBNyHyqxtdzPUt3Cd6sRhVEDe8sv4TyTkZ1Ztq6TTyl95sOIoTU\nvu2JiMQ9qiOwj07frUxOFr+IImzqrTrYJzcNkSSsRfN2Itz2OOa9O4o8AVc+K2UT\nq1AWe8BVeZBIW74hyCPoQH4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "g-drive@nodal-triumph-399812.iam.gserviceaccount.com",
+  "client_id": "110404660409683750232",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/g-drive%40nodal-triumph-399812.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
